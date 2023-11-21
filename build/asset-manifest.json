@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redi_w_6_hw/static/css/main.1b04367d.css",
+    "main.js": "/redi_w_6_hw/static/js/main.8f649051.js",
+    "index.html": "/redi_w_6_hw/index.html",
+    "main.1b04367d.css.map": "/redi_w_6_hw/static/css/main.1b04367d.css.map",
+    "main.8f649051.js.map": "/redi_w_6_hw/static/js/main.8f649051.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b04367d.css",
+    "static/js/main.8f649051.js"
+  ]
+}
