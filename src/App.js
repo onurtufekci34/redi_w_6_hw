@@ -4,10 +4,10 @@ import MyStyledComponent from "./components/MyStyledComponent";
 
 function App() {
   return (
-    <div >
-    <Header/>
-    <MyStyledComponent/>
-    <Footer/>
+    <div>
+      <Header />
+      <MyStyledComponent />
+      <Footer />
     </div>
   );
 }

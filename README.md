@@ -1,1 +1,1 @@
-# redi_w_6_hw
+# Basic Functional, Class and Styled Components
